@@ -33,7 +33,6 @@ Traditional centralized intrusion detection systems require aggregating large vo
 ---
 
 ## Project Structure
-.
 ├── Client/
 │ ├── client.py # Client-side training logic
 │ ├── model.py # Logistic model and FedAvg implementation
